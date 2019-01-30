@@ -1,4 +1,4 @@
-# NodeTelegramRSSFeeder
+# Node Telegram Naver Blog RSS Feeder
 
 ## Run
 
