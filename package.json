@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "axios": "^0.18.0",
+    "better-sqlite3": "^5.4.0",
+    "moment": "^2.24.0",
+    "node-telegram-bot-api": "^0.30.0",
+    "xml2js": "^0.4.19"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "^5.2.2",
+    "@types/moment": "^2.13.0",
+    "@types/node-telegram-bot-api": "^0.30.4",
+    "@types/xml2js": "^0.4.3",
+    "ts-node": "^8.0.2",
+    "tslint": "^5.12.1",
+    "tslint-config-prettier": "^1.17.0",
+    "tslint-config-standard": "^8.0.1",
+    "typescript": "^3.2.4"
+  }
+}
